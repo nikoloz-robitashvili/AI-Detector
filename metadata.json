@@ -1,0 +1,7 @@
+{
+  "name": "AI Detector",
+  "description": "An advanced multilingual AI text detection engine with high-precision analysis for English, Georgian, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
